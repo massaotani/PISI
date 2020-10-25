@@ -1,6 +1,6 @@
 import knex from 'knex';
 import path from 'path'; // para unir caminhos de acordo com seu OS
-
+ 
 /* -----------------------[ CONEXÃO COM O BANDO DE DADOS ]-------------------------
     objeto com as configurações do nosso bd
     arquivo que iremos armazenar o arquivo do bd

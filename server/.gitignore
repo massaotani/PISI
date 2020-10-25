@@ -8,3 +8,6 @@ uploads/*
 !uploads/papeis-papelao.svg
 !uploads/bateruas.svg
 *.sqlite
+
+.fake
+.ionide
